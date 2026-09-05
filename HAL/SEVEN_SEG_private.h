@@ -1,17 +1,27 @@
 #ifndef _SEVEN_SEG_PRIVATE_H_ 
 #define _SEVEN_SEG_PRIVATE_H_ 
 
-static const u8 SevSegCode [10] = {
-             0b00111111, 
-             0b00000110, 
-             0b01011011, 
-             0b01001111, 
-             0b01100110, 
-             0b01101101, 
-             0b01111101, 
-             0b00000111,
-             0b01111111, 
-             0b01101111                         
+static const u8 SevSegCode [SEVEN_SEG_SYMPOLS_NUM] = {
+    0b00111111, 
+    0b00000110, 
+    0b01011011, 
+    0b01001111, 
+    0b01100110, 
+    0b01101101, 
+    0b01111101, 
+    0b00000111, 
+    0b01111111, 
+    0b01101111,
+    0b01110111,
+    0b01111100,
+    0b00111001,
+    0b01011110,
+    0b01111001,
+    0b01110001,
+    0b01000000,
+    0b01000001,
 };
+
+static u8 SEVEN_SEG_u8GetBitCode (u8 value);
 
 #endif

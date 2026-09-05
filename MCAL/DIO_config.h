@@ -1,14 +1,14 @@
 #ifndef _DIO_CONFIG_H_ 
 #define _DIO_CONFIG_H_ 
 
-#define DIO_PA0_DIR  INPUT
-#define DIO_PA1_DIR  INPUT
-#define DIO_PA2_DIR  INPUT
-#define DIO_PA3_DIR  INPUT
-#define DIO_PA4_DIR  INPUT
-#define DIO_PA5_DIR  INPUT
-#define DIO_PA6_DIR  INPUT
-#define DIO_PA7_DIR  INPUT
+#define DIO_PA0_DIR  OUTPUT
+#define DIO_PA1_DIR  OUTPUT
+#define DIO_PA2_DIR  OUTPUT
+#define DIO_PA3_DIR  OUTPUT
+#define DIO_PA4_DIR  OUTPUT
+#define DIO_PA5_DIR  OUTPUT
+#define DIO_PA6_DIR  OUTPUT
+#define DIO_PA7_DIR  OUTPUT
 
 #define DIO_PB0_DIR  OUTPUT
 #define DIO_PB1_DIR  OUTPUT
@@ -19,22 +19,22 @@
 #define DIO_PB6_DIR  OUTPUT
 #define DIO_PB7_DIR  OUTPUT
 
-#define DIO_PC0_DIR  OUTPUT
-#define DIO_PC1_DIR  OUTPUT
-#define DIO_PC2_DIR  OUTPUT
-#define DIO_PC3_DIR  OUTPUT
+#define DIO_PC0_DIR  INPUT
+#define DIO_PC1_DIR  INPUT
+#define DIO_PC2_DIR  INPUT
+#define DIO_PC3_DIR  INPUT
 #define DIO_PC4_DIR  OUTPUT
 #define DIO_PC5_DIR  OUTPUT
 #define DIO_PC6_DIR  OUTPUT
 #define DIO_PC7_DIR  OUTPUT
 
-#define DIO_PD0_DIR  INPUT
-#define DIO_PD1_DIR  INPUT
-#define DIO_PD2_DIR  INPUT
-#define DIO_PD3_DIR  INPUT
-#define DIO_PD4_DIR  INPUT
-#define DIO_PD5_DIR  INPUT
-#define DIO_PD6_DIR  INPUT
-#define DIO_PD7_DIR  INPUT
+#define DIO_PD0_DIR  OUTPUT
+#define DIO_PD1_DIR  OUTPUT
+#define DIO_PD2_DIR  OUTPUT
+#define DIO_PD3_DIR  OUTPUT
+#define DIO_PD4_DIR  OUTPUT
+#define DIO_PD5_DIR  OUTPUT
+#define DIO_PD6_DIR  OUTPUT
+#define DIO_PD7_DIR  OUTPUT
 
 #endif

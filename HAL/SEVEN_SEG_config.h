@@ -22,4 +22,5 @@
 #define SEG_G_PORTID  DPORTD
 #define SEG_G_PINID   PIN6
 
+#define SEVEN_SEG_SYMPOLS_NUM 18
 #endif

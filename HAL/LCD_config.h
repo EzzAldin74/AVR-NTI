@@ -1,0 +1,41 @@
+#ifndef _LCD_CONFIG_H_ 
+#define _LCD_CONFIG_H_ 
+
+//CONTROL PINS
+#define RS_PORTID  DPORTB
+#define RS_PINID   PIN0
+
+#define RW_PORTID  DPORTB
+#define RW_PINID   PIN1
+
+#define EN_PORTID  DPORTB
+#define EN_PINID   PIN2
+
+//DATA PINS
+#define LCD_D0_PORTID  DPORTA
+#define LCD_D0_PINID   PIN0
+
+#define LCD_D1_PORTID  DPORTA
+#define LCD_D1_PINID   PIN1
+
+#define LCD_D2_PORTID  DPORTA
+#define LCD_D2_PINID   PIN2
+
+#define LCD_D3_PORTID  DPORTA
+#define LCD_D3_PINID   PIN3
+
+#define LCD_D4_PORTID  DPORTA
+#define LCD_D4_PINID   PIN4
+
+#define LCD_D5_PORTID  DPORTA
+#define LCD_D5_PINID   PIN5
+
+#define LCD_D6_PORTID  DPORTA
+#define LCD_D6_PINID   PIN6
+
+#define LCD_D7_PORTID  DPORTA
+#define LCD_D7_PINID   PIN7
+//COMMANDS 
+
+
+#endif

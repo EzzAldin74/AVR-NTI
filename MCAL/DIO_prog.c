@@ -70,7 +70,6 @@ void DIO_voidSetPinValue(u8 PortID,u8 PinID,u8 Value){
 }
 
 u8 DIO_u8ReadPinValue(u8 PortID,u8 PinID){
-
    u8 PinValue=0;
    if(PortID<4 && PinID<8){
             switch(PortID){
