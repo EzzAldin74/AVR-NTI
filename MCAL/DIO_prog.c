@@ -85,6 +85,21 @@ u8 DIO_u8ReadPinValue(u8 PortID,u8 PinID){
     return PinValue;
 }
 
+void DIO_voidTogglePinValue(u8 PortID,u8 PinID){
+
+   if(PortID<4 && PinID<8){
+            switch(PortID){
+                case DPORTA:TOGGLE_BIT(PORTA,PinID); break;
+                case DPORTB:TOGGLE_BIT(PORTB,PinID); break;
+                case DPORTC:TOGGLE_BIT(PORTC,PinID); break;
+                case DPORTD:TOGGLE_BIT(PORTD,PinID); break;
+     }
+    }
+    else{
+        /*NOCODE*/
+    } 
+}
+
 //after initialization u can change the direction and don't depend on the config 
 void DIO_voidSetPortDirection(u8 PortID,u8 Direction){
     if(PortID<4){

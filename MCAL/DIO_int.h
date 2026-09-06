@@ -32,6 +32,7 @@ void DIO_voidDDRInitialization(void);
 void DIO_voidSetPinDirection(u8 PortID,u8 PinID,u8 Direction);
 void DIO_voidSetPinValue(u8 PortID,u8 PinID,u8 value);
 u8 DIO_u8ReadPinValue(u8 PortID,u8 PinID);
+void DIO_voidTogglePinValue(u8 PortID,u8 PinID);
 
 void DIO_voidSetPinPullUp(u8 PortID,u8 PinID);
 
