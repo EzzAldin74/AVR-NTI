@@ -14,15 +14,17 @@ DIO_voidSetPinPullUp(DPORTD, PIN3);
 DIO_voidSetPinDirection(DPORTD,PIN2,INPUT);
 DIO_voidSetPinDirection(DPORTD,PIN3,INPUT);
 
-
+//PIE (Peripheral Interrupt Enable)
 SET_BIT(GICR,INT0);
 SET_BIT(GICR,INT1);
 
+//PIF (Peripheral Interrupt Flag) SENSE_MODE (at rising and falling)
 SET_BIT(MCUCR,ISC00);
 CLR_BIT(MCUCR,ISC01);
 SET_BIT(MCUCR,ISC10);
 CLR_BIT(MCUCR,ISC11);
 
+//GIE (Global Interrupt Enable)
 SET_BIT(SREG,IBIT);
 
 }

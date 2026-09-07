@@ -1,11 +1,13 @@
 #ifndef _EXTI_PRIVATE_
 #define _EXTI_PRIVATE_
 
-#define MCUCR   *((volatile u8*)0x55)
+
 #define MCUCSR  *((volatile u8*)0x54)
-#define SREG    *((volatile u8*)0x5F)
-#define GICR    *((volatile u8*)0x5B)
+#define MCUCR   *((volatile u8*)0x55)
 #define GIFR    *((volatile u8*)0x5A)
+#define GICR    *((volatile u8*)0x5B)
+#define SREG    *((volatile u8*)0x5F)
+
 
 // MCUCR Bits
 #define ISC00   0
@@ -21,6 +23,6 @@
 #define INT1    7
 #define INT2    5
 
-#define IBIT 7
+#define IBIT    7
 
 #endif
