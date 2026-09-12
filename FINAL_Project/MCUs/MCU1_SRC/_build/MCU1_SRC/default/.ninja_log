@@ -1,0 +1,27 @@
+# ninja log v7
+123	3411	8107392865465509	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/TIMER0_prog.c.o	5822bba7a5bce532
+22	3414	8107392864455694	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/ADC_prog.c.o	a0a1d32774c1d7eb
+117	3420	8107392865402691	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/SevenSeg_prog.c.o	b7dd02b9b8dc4226
+86	3422	8107392865097536	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/INTERRUPT_prog.c.o	49b0cb9b103d1270
+81	3423	8107392865053304	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/DIO_prog.c.o	781cd8ae654d9d48
+135	3423	8107392865585473	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/UART_prog.c.o	a3b445d3c7ee0de4
+111	3424	8107392865344581	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/STEPMOTOR_prog.c.o	96ed48f100ffa084
+129	3425	8107392865529810	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/TIMER1_prog.c.o	8bb24bd1e00b4947
+92	3426	8107392865163508	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/KEYPAD_prog.c.o	80f84746800faf05
+106	3426	8107392865298693	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/SPI_prog.c.o	3bef0e9f1a103b15
+140	3429	8107392865637717	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/main.c.o	1ad9575b08dc9f83
+17	123	8107393252688816	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/LCD_prog.c.o	b3691eaf90551103
+124	676	8107393253750157	D:/FINAL_Project/MCUs/MCU1_SRC/out/MCU1_SRC/default.elf	3312a4ff4d26eee0
+17	112	8107415046362586	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/ADC_prog.c.o	a0a1d32774c1d7eb
+23	197	8107415046423759	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/main.c.o	1ad9575b08dc9f83
+197	343	8107415048159266	D:/FINAL_Project/MCUs/MCU1_SRC/out/MCU1_SRC/default.elf	3312a4ff4d26eee0
+29	3140	8107439458426802	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/ADC_prog.c.o	a0a1d32774c1d7eb
+70	3142	8107439458841385	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/main.c.o	1ad9575b08dc9f83
+3142	3752	8107439489564572	D:/FINAL_Project/MCUs/MCU1_SRC/out/MCU1_SRC/default.elf	3312a4ff4d26eee0
+16	109	8107445553371856	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/ADC_prog.c.o	a0a1d32774c1d7eb
+109	242	8107445554304939	D:/FINAL_Project/MCUs/MCU1_SRC/out/MCU1_SRC/default.elf	3312a4ff4d26eee0
+80	3337	8107522873931961	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/TIMER0_prog.c.o	5822bba7a5bce532
+85	3338	8107522873976196	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/TIMER1_prog.c.o	8bb24bd1e00b4947
+29	3338	8107522873430807	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/LCD_prog.c.o	b3691eaf90551103
+91	3340	8107522874042605	CMakeFiles/MCU1_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU1_SRC/main.c.o	1ad9575b08dc9f83
+3340	3854	8107522906533413	D:/FINAL_Project/MCUs/MCU1_SRC/out/MCU1_SRC/default.elf	3312a4ff4d26eee0

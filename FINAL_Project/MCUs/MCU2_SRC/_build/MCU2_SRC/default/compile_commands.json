@@ -1,0 +1,74 @@
+[
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\ADC_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\ADC_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/ADC_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/ADC_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\DIO_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\DIO_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/DIO_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/DIO_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\INTERRUPT_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\INTERRUPT_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/INTERRUPT_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/INTERRUPT_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\KEYPAD_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\KEYPAD_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/KEYPAD_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/KEYPAD_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\LCD_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\LCD_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/LCD_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/LCD_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\SPI_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\SPI_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/SPI_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/SPI_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\STEPMOTOR_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\STEPMOTOR_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/STEPMOTOR_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/STEPMOTOR_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\SevenSeg_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\SevenSeg_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/SevenSeg_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/SevenSeg_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\TIMER0_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\TIMER0_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/TIMER0_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/TIMER0_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\TIMER1_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\TIMER1_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/TIMER1_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/TIMER1_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\UART_prog.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\UART_prog.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/UART_prog.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/UART_prog.c.o"
+},
+{
+  "directory": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega32A__ -c -mcpu=ATmega32A -x c -mdfp=C:/Users/Ezz/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\MCU2_SRC_default_default_XC8_compile.dir\\D_\\FINAL_Project\\MCUs\\MCU2_SRC\\main.c.o -c D:\\FINAL_Project\\MCUs\\MCU2_SRC\\main.c",
+  "file": "D:/FINAL_Project/MCUs/MCU2_SRC/main.c",
+  "output": "D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/main.c.o"
+}
+]

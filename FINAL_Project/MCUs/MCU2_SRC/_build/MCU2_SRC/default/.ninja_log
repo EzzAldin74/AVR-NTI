@@ -1,0 +1,16 @@
+# ninja log v7
+17	222	8107397244325696	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/ADC_prog.c.o	fe9c8fa2280e1edf
+29	282	8107397244435802	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/INTERRUPT_prog.c.o	7b4eb3daf61a625f
+34	283	8107397244488357	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/KEYPAD_prog.c.o	61d2c64375cec423
+24	287	8107397244387906	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/DIO_prog.c.o	8a729fa86fbf1590
+68	288	8107397244830575	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/TIMER0_prog.c.o	8b60973e7c1d070f
+91	316	8107397245065672	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/UART_prog.c.o	2e4be2dd3e41ef4b
+60	317	8107397244740573	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/SevenSeg_prog.c.o	c8b7600f64beda1c
+46	318	8107397244610569	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/SPI_prog.c.o	36bc6d04bd8d70c5
+74	321	8107397244890565	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/TIMER1_prog.c.o	5dbc4f11076425ed
+40	322	8107397244550548	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/LCD_prog.c.o	bdadc7eec8337d73
+53	377	8107397244680583	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/STEPMOTOR_prog.c.o	295e0979ac1edbae
+23	110	8107399237659163	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/main.c.o	9e1ff6e79e48b6aa
+14	111	8107399237563978	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/TIMER1_prog.c.o	5dbc4f11076425ed
+19	111	8107399237627037	CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir/D_/FINAL_Project/MCUs/MCU2_SRC/UART_prog.c.o	2e4be2dd3e41ef4b
+112	233	8107399238549261	D:/FINAL_Project/MCUs/MCU2_SRC/out/MCU2_SRC/default.elf	f0ac15fdbb23a0be

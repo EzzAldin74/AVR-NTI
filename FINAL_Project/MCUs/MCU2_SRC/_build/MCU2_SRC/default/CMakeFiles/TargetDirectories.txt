@@ -1,0 +1,4 @@
+D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_default_XC8_compile.dir
+D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/MCU2_SRC_default_image_p_yG7UKG.dir
+D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/edit_cache.dir
+D:/FINAL_Project/MCUs/MCU2_SRC/_build/MCU2_SRC/default/CMakeFiles/rebuild_cache.dir
